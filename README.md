@@ -51,5 +51,5 @@
 1. Запустите приложение:
 
    ```bash
-   go run main.goы
+   go run main.go
    ```
