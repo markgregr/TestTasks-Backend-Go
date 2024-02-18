@@ -6,7 +6,7 @@
 
 Этот проект представляет собой клиент для получения курсов криптовалют. Ссылка на ветку [feature/crypto-rates-client](https://github.com/markgregr/TestTasks-Backend-Go/tree/feature/crypto-rates-client)
 
-## Проект 1: Клиент криптовалютных курсов
+## Проект 2: Парсер данных Instagram Influencers
 
 Этот проект представляет собой парсер данных о популярных Instagram Influencers. Ссылка на ветку [feature/instagram-parser](https://github.com/markgregr/TestTasks-Backend-Go/tree/feature/instagram-parser)
 
