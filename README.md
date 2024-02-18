@@ -9,7 +9,7 @@
 1. Склонируйте репозиторий на ваш компьютер:
 
     ```bash
-    git clone <repository-url>
+    git clone <[repository-url](https://github.com/markgregr/TestTasks-Backend-Go.git)>
     ```
 
 2. Перейдите в каталог проекта:
@@ -17,8 +17,12 @@
     ```bash
     cd crypto-rates-client
     ```
+3. Перейдите в ветку feature/crypto-rates-client:
 
-3. Установите зависимости:
+    ```bash
+    git checkout feature/crypto-rates-client
+    ```
+4. Установите зависимости:
 
     ```bash
     go mod tidy
